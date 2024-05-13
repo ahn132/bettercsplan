@@ -9,4 +9,3 @@
 6. Application computes the list of classes that the user needs to take; the application ensures that this list is as short as possible while meeting the user's requests
 7. User can organize their needed classes into different semester tables through a drag-and-drop system; the application prevents the user from dropping a class into a specific semester table if all prerequesites for this class have not yet been met
 8. User can save their schedule, edit it later, and create a completely new schedule if desired
-
